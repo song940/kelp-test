@@ -1,0 +1,28 @@
+{
+  "name": "kelp-test",
+  "version": "0.0.1",
+  "description": "super tiny testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "ava"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/kelp-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/kelp-test/issues"
+  },
+  "homepage": "https://github.com/song940/kelp-test#readme",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  }
+}
