@@ -1,8 +1,9 @@
 {
   "name": "kelp-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "super tiny testing framework",
   "main": "index.js",
+  "bin": "./bin/ktest.js",
   "scripts": {
     "test": "node test"
   },
