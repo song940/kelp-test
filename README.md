@@ -11,6 +11,11 @@
 $ npm install kelp-test
 ```
 
+```bash
+curl -o test/test.js https://raw.githubusercontent.com/song940/kelp-test/master/index.js
+```
+
+
 ### Example
 
 ```js
